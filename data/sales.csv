@@ -1,0 +1,5 @@
+OrderDate,Region,Store,Product,UnitsSold,UnitPrice,Revenue
+2023-01-05,North,Store A,Widget,15,9.99,149.85
+2023-01-06,South,Store B,Gadget,8,19.50,156.00
+2023-01-07,East,Store C,Widget,20,9.99,199.80
+2023-01-08,West,Store D,Thingamajig,5,49.99,249.95
